@@ -34,8 +34,8 @@
 
 #### :pushpin: ETC
 ![Git](https://img.shields.io/badge/Git-★★☆☆☆-purple)
-![AWS](https://img.shields.io/badge/Oracle-★★★★☆-purple)
-![Linux](https://img.shields.io/badge/MongoDB-★★★★☆-purple)
+![AWS](https://img.shields.io/badge/AWS-★★★★☆-purple)
+![Linux](https://img.shields.io/badge/Linux-★★★★☆-purple)
 
 <br />
 
