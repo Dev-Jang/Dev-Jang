@@ -13,6 +13,7 @@
 
 ### :cyclone: Languages
 ![Java](https://img.shields.io/badge/Java-★★★★☆-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-blueviolet)
 ![Python](https://img.shields.io/badge/Python-★★★☆☆-blue)
 ![C](https://img.shields.io/badge/C-★★☆☆☆-blue)
 
