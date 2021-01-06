@@ -5,11 +5,15 @@
 
  My major is **Computer Engineering:computer:** since 2014. I have project experience using **Java(My most confident language)**, Python and C languages. I am very interested in **Web Back-End Developement**.
 
+<br />
+
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Computer Engineering | **Sungkyul University** |
+
+<br />
 
 ### :mag: Skills
 #### :cyclone: Languages
@@ -27,6 +31,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-purple)
 ![Oracle](https://img.shields.io/badge/Oracle-★★★★☆-purple)
 ![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-purple)
+
+<br />
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheonggeum@gmail.com)](mailto:cheonggeum@gmail.com)
