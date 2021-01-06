@@ -17,10 +17,10 @@
 
 ### :mag: Skills
 #### :cyclone: Languages
-![Java](https://img.shields.io/badge/Java-★★★★☆-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-red)
-![Python](https://img.shields.io/badge/Python-★★★☆☆-red)
-![C](https://img.shields.io/badge/C-★★☆☆☆-red)
+![Java](https://img.shields.io/badge/Java-★★★★☆-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-orange)
+![Python](https://img.shields.io/badge/Python-★★★☆☆-orange)
+![C](https://img.shields.io/badge/C-★★☆☆☆-orange)
 
 #### :fireworks: Framework
 ![Spring](https://img.shields.io/badge/Spring-★★★★☆-green)
