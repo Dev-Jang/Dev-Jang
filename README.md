@@ -17,6 +17,16 @@
 ![Python](https://img.shields.io/badge/Python-★★★☆☆-blue)
 ![C](https://img.shields.io/badge/C-★★☆☆☆-blue)
 
+### :ocean: Framework
+![Spring](https://img.shields.io/badge/Spring-★★★★☆-green)
+![Node.js](https://img.shields.io/badge/Node.js-★★★☆☆-green)
+![React.js](https://img.shields.io/badge/React.js-★★☆☆☆-green)
+
+### :books: Database
+![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-purple)
+![Oracle](https://img.shields.io/badge/Oracle-★★★★☆-purple)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-purple)
+
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheonggeum@gmail.com)](mailto:cheonggeum@gmail.com)
 
