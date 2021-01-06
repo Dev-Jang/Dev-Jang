@@ -12,6 +12,7 @@
 
 ### :cyclone: Languages
 ![Java](https://img.shields.io/badge/Java-★★★★☆-blueviolet)
+![Python](https://img.shields.io/badge/Python-★★★☆☆-blue)
 
 ### :mailbox_with_mail: Contacts
 
