@@ -16,6 +16,6 @@
 ![C](https://img.shields.io/badge/C-★★☆☆☆-blue)
 
 ### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheonggeum@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheonggeum@gmail.com)](mailto:cheonggeum@gmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Jang)](https://github.com/anuraghazra/github-readme-stats)
