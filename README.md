@@ -3,7 +3,7 @@
 
 :wave: Hello~ I'm JuYeong Jang, and my English name is Joel.
 
- My major is **computer engineering:computer:** since 2014. I have project experience using **Java(My most confident language)**, Python and C languages. I am very interested in **Web Back-End Developement**.
+ My major is **Computer Engineering:computer:** since 2014. I have project experience using **Java(My most confident language)**, Python and C languages. I am very interested in **Web Back-End Developement**.
 
 ### :purple_heart: Career
 
