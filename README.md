@@ -17,10 +17,10 @@
 
 ### :mag: Skills
 #### :cyclone: Languages
-![Java](https://img.shields.io/badge/Java-★★★★☆-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-blueviolet)
-![Python](https://img.shields.io/badge/Python-★★★☆☆-blue)
-![C](https://img.shields.io/badge/C-★★☆☆☆-blue)
+![Java](https://img.shields.io/badge/Java-★★★★☆-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-red)
+![Python](https://img.shields.io/badge/Python-★★★☆☆-red)
+![C](https://img.shields.io/badge/C-★★☆☆☆-red)
 
 #### :fireworks: Framework
 ![Spring](https://img.shields.io/badge/Spring-★★★★☆-green)
@@ -28,9 +28,14 @@
 ![React.js](https://img.shields.io/badge/React.js-★★☆☆☆-green)
 
 #### :floppy_disk: Database
-![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-purple)
-![Oracle](https://img.shields.io/badge/Oracle-★★★★☆-purple)
-![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-purple)
+![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-blue)
+![Oracle](https://img.shields.io/badge/Oracle-★★★★☆-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-blue)
+
+#### :pushpin: ETC
+![Git](https://img.shields.io/badge/Git-★★☆☆☆-purple)
+![AWS](https://img.shields.io/badge/Oracle-★★★★☆-purple)
+![Linux](https://img.shields.io/badge/MongoDB-★★★★☆-purple)
 
 <br />
 
