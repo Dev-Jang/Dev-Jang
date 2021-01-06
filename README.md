@@ -11,7 +11,7 @@
 | **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Computer Engineering | **Sungkyul University** |
 
 ### :cyclone: Languages
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blueviolet)
+![Java](https://img.shields.io/badge/Java-★★★★☆-blueviolet)
 
 ### :mailbox_with_mail: Contacts
 
