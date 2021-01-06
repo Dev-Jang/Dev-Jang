@@ -5,7 +5,6 @@
 
  My major is **Computer Engineering:computer:** since 2014. I have project experience using **Java(My most confident language)**, Python and C languages. I am very interested in **Web Back-End Developement**.
  
-<br />
 
 ### :purple_heart: Career
 
@@ -13,7 +12,6 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Computer Engineering | **Sungkyul University** |
 
-<br />
 
 ### :mag: Skills
 #### :cyclone: Languages
@@ -37,11 +35,9 @@
 ![AWS](https://img.shields.io/badge/AWS-★★★★☆-purple)
 ![Linux](https://img.shields.io/badge/Linux-★★★★☆-purple)
 
-<br />
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheonggeum@gmail.com)](mailto:cheonggeum@gmail.com)
 
-<br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dev-Jang&show_icons=true&theme=radical)
