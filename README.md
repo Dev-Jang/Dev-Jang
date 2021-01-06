@@ -11,18 +11,19 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Computer Engineering | **Sungkyul University** |
 
-### :cyclone: Languages
+### :mag: Skills
+#### :cyclone: Languages
 ![Java](https://img.shields.io/badge/Java-★★★★☆-blueviolet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★★☆☆-blueviolet)
 ![Python](https://img.shields.io/badge/Python-★★★☆☆-blue)
 ![C](https://img.shields.io/badge/C-★★☆☆☆-blue)
 
-### :ocean: Framework
+#### :fireworks: Framework
 ![Spring](https://img.shields.io/badge/Spring-★★★★☆-green)
 ![Node.js](https://img.shields.io/badge/Node.js-★★★☆☆-green)
 ![React.js](https://img.shields.io/badge/React.js-★★☆☆☆-green)
 
-### :books: Database
+#### :floppy_disk: Database
 ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-purple)
 ![Oracle](https://img.shields.io/badge/Oracle-★★★★☆-purple)
 ![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-purple)
