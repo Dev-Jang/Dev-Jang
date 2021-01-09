@@ -22,8 +22,8 @@
 
 #### :fireworks: Framework
 ![Spring](https://img.shields.io/badge/Spring-★★★★☆-green)
-![Node.js](https://img.shields.io/badge/Node.js-★★★☆☆-green)
-![React.js](https://img.shields.io/badge/React.js-★★☆☆☆-green)
+![Node.js](https://img.shields.io/badge/Node.js-★☆☆☆☆-green)
+![React.js](https://img.shields.io/badge/React.js-★☆☆☆☆-green)
 
 #### :floppy_disk: Database
 ![MySQL](https://img.shields.io/badge/MySQL-★★★★☆-blue)
